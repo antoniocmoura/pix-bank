@@ -10,7 +10,7 @@ Application modules:
 - Application: use case rules related to system automation;
 - Infrastructure :  web server and database connection
 
-![image-20220718151350584](C:\Users\antonio\AppData\Roaming\Typora\typora-user-images\image-20220718151350584.png)
+![image-20220718151350584](https://github.com/antoniocmoura/pix-bank/blob/main/pixbank.png)
 
 
 
